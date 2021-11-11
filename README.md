@@ -10,7 +10,7 @@ Usage on windows:
     ./run.bat
 ```
 
-# Benchmark with the [Mandelbrotset](https://github.com/ErikDubbelboer/brainfuck-jit/blob/master/mandelbrot.bf) on windows:
+## Benchmark with the [Mandelbrotset](https://github.com/ErikDubbelboer/brainfuck-jit/blob/master/mandelbrot.bf) on windows:
 
 ### without compiling
 
@@ -19,7 +19,7 @@ Seconds           : 1\
 Milliseconds      : 0\
 Ticks             : 10004035
 
--> C Implementation\
+#### C Implementation\
     Seconds           : 0\
     Milliseconds      : 883\
     Ticks             : 8831692
