@@ -19,10 +19,10 @@ Seconds           : 1\
 Milliseconds      : 0\
 Ticks             : 10004035
 
-#### C Implementation
-Seconds           : 0\
-Milliseconds      : 883\
-Ticks             : 8831692
+-> C Implementation\
+    Seconds           : 0\
+    Milliseconds      : 883\
+    Ticks             : 8831692
 
 
 ### with compiling
