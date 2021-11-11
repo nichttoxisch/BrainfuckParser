@@ -15,11 +15,11 @@ Usage on windows:
 ### without compiling
 
 #### Rust implementation
-Seconds           : 1\
-Milliseconds      : 0\
-Ticks             : 10004035
+    Seconds           : 1\
+    Milliseconds      : 0\
+    Ticks             : 10004035
 
-#### C Implementation\
+#### C Implementation
     Seconds           : 0\
     Milliseconds      : 883\
     Ticks             : 8831692
@@ -28,14 +28,13 @@ Ticks             : 10004035
 ### with compiling
 
 #### Rust implementation
-Seconds           : 16\
-Milliseconds      : 573\
-Ticks             : 165731548
-
+    Seconds           : 16\
+    Milliseconds      : 573\
+    Ticks             : 165731548
 
 #### C Implementation
-Seconds           : 3\
-Milliseconds      : 522\
-Ticks             : 35223103
+    Seconds           : 3\
+    Milliseconds      : 522\
+    Ticks             : 35223103
 
 
