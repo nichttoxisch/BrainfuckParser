@@ -68,7 +68,7 @@ int main(/*int argc, char const *argv[]*/)
                 }
             }
             ']' => c_code += "};",
-            '.' => c_code += "printf(\"%d\\n\", buffer[b_index]);",
+            '.' => c_code += "printf(\"%c\", buffer[b_index]);",
             ',' => {
                 c_code += "c = getc(stdin);if (c != 10) {buffer[b_index] = c;}"
                 // c_code += "buffer[b_index] = getchar()"
